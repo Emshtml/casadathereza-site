@@ -69,7 +69,7 @@ casa da Thereza anjo dos animais
 
   <section id="video">
     <h2>Conheça nosso trabalho</h2>
-    <iframe src="https:// [/](https://youtube.com/@casadatherezacasadathereza-t3c?si=NI8sIXAIgL9DHYeo)VIDEO_ID" allowfullscreen title="Video sobre a ONG"></iframe>
+    <iframe src="https:// [/](https://youtube.com/@casadatherezacasadathereza" allowfullscreen title="Video sobre a ONG"></iframe>
   </section>
 
   <section id="depoimentos">
@@ -84,7 +84,7 @@ casa da Thereza anjo dos animais
 
   <section id="contato">
     <h2>Contato e Doações</h2>
-    <p>Email: <a href="mailto:casadathereza1@gmail.com">contato@casadathereza1@gmail.com</a></p>
+    <p>Email: <a href="mailto:casadathereza1@gmail.com">casadathereza1@gmail.com</a></p>
     <p>WhatsApp: <a href="https://wa.me/5511954626174" target="_blank">(11) 954626174</a></p>
     <p>Endereço: Rua Luciano Gomes, 26 - São Paulo, SP</p>
     <h3>Chave Pix:</h3>
