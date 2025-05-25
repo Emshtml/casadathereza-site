@@ -84,7 +84,7 @@ casa da Thereza anjo dos animais
 
   <section id="contato">
     <h2>Contato e Doações</h2>
-    <p>Email: <a href="mailto:contato@casadathereza1@gmail.com">contato@casadathereza.org</a></p>
+    <p>Email: <a href="mailto:contato@casadathereza1@gmail.com">contato@casadathereza1@gmail.com</a></p>
     <p>WhatsApp: <a href="https://wa.me/5511954626174" target="_blank">(11) 954626174</a></p>
     <p>Endereço: Rua Luciano Gomes, 26 - São Paulo, SP</p>
     <h3>Chave Pix:</h3>
