@@ -85,11 +85,11 @@ casa da Thereza anjo dos animais
   <section id="contato">
     <h2>Contato e Doações</h2>
     <p>Email: <a href="mailto:contato@casadathereza.org">contato@casadathereza.org</a></p>
-    <p>WhatsApp: <a href="https://wa.me/5511999999999" target="_blank">(11) 99999-9999</a></p>
-    <p>Endereço: Rua dos Animais, 123 - São Paulo, SP</p>
+    <p>WhatsApp: <a href="https://wa.me/5511954626174" target="_blank">(11) 99999-9999</a></p>
+    <p>Endereço: Rua Luciano Gomes, 26 - São Paulo, SP</p>
     <h3>Chave Pix:</h3>
-    <p><strong>doacoes@casadathereza.org</strong></p>
-    <a href="https://pagseguro.uol.com.br" class="btn" target="_blank">Doar com PagSeguro</a>
+    <p><strong>27350504837 </strong></p>
+    <a href="https://banco do brasil" class="btn" target="_blank">Doar com banco do brasil</a>
   </section>
 
   <footer>
