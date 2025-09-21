@@ -1,22 +1,34 @@
-# Casa da Thereza - Anjo dos Animais
+# 🌸 Casa da Thereza – Site Oficial
 
-Bem-vindo ao repositório oficial do site da **Casa da Thereza**, uma ONG dedicada ao resgate, cuidado e adoção de animais abandonados em São Paulo.
+Bem-vindo ao repositório do site **Casa da Thereza**, um espaço cultural e social
+dedicado a promover eventos, encontros e iniciativas comunitárias.
 
-## 🌟 Sobre a ONG
+## 🚀 Tecnologias utilizadas
+- HTML5 semântico
+- CSS3 responsivo
+- JavaScript Vanilla
+- GitHub Pages (deploy)
 
-A **Casa da Thereza** trabalha com amor e responsabilidade para salvar vidas, tratar animais em situação de risco e promover adoções conscientes. 
+## 📂 Estrutura do projeto
+- index.html → Página inicial
+- sobre.html → Quem somos
+- contato.html → Contato
+- css/style.css → Estilos
+- js/script.js → Interações
+- images/ → Galeria
+- assets/ → Ícones, fontes
+- 404.html → Página de erro
 
-## 📸 Funcionalidades do site
+## 🔧 Como rodar localmente
+```bash
+git clone https://github.com/Emshtml/casadathereza-site.git
+cd casadathereza-site
+npx live-server
+```
 
-- Página inicial responsiva e moderna
-- Seções informativas sobre missão e adoção
-- Galeria com fotos dos animais
-- Vídeo institucional (YouTube)
-- Depoimentos de adotantes
-- Contato e chave Pix para doações
+## 🌍 Deploy
+Este site é hospedado no **GitHub Pages**:  
+https://emshtml.github.io/casadathereza-site/
 
-## 🚀 Acesse o site
-
-Você pode acessar o site publicado pelo GitHub Pages:
-
-
+## 📜 Licença
+MIT
