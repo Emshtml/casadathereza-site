@@ -17,7 +17,7 @@ dedicado a promover eventos, encontros e iniciativas comunitárias.
 - js/script.js → Interações
 - images/ → Galeria
 - assets/ → Ícones, fontes
-- 404.html → Página de erro
+  
 
 ## 🔧 Como rodar localmente
 ```bash
