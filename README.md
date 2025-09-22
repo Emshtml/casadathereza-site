@@ -17,15 +17,6 @@ dedicado a promover eventos, encontros e iniciativas comunitárias.
 - js/script.js → Interações
 - images/ → Galeria
 - assets/ → Ícones, fontes
-  
-
-## 🔧 Como rodar localmente
-```bash
-git clone https://github.com/Emshtml/casadathereza-site.git
-cd casadathereza-site
-npx live-server
-```
-
 ## 🌍 Deploy
 Este site é hospedado no **GitHub Pages**:  
 https://emshtml.github.io/casadathereza-site/
