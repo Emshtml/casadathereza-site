@@ -1,15 +1,15 @@
-# 🌸 Casa da Thereza – Site Oficial
+Casa da Thereza – Site Oficial
 
 Bem-vindo ao repositório do site **Casa da Thereza**, um espaço cultural e social
 dedicado a promover eventos, encontros e iniciativas comunitárias.
 
-## 🚀 Tecnologias utilizadas
+ Tecnologias utilizadas
 - HTML5 semântico
 - CSS3 responsivo
 - JavaScript Vanilla
 - GitHub Pages (deploy)
 
-## 📂 Estrutura do projeto
+Estrutura do projeto
 - index.html → Página inicial
 - sobre.html → Quem somos
 - contato.html → Contato
@@ -17,9 +17,9 @@ dedicado a promover eventos, encontros e iniciativas comunitárias.
 - js/script.js → Interações
 - images/ → Galeria
 - assets/ → Ícones, fontes
-## 🌍 Deploy
+  Deploy
 Este site é hospedado no **GitHub Pages**:  
 https://emshtml.github.io/casadathereza-site/
 
-## 📜 Licença
+Licença
 MIT
