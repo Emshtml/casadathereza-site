@@ -1,6 +1,32 @@
-node_modules/
-dist/
-.cache/
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pastas de dependências (caso adicione scripts ou ferramentas)
+node_modules/
+vendor/
+
+# Build e cache
+dist/
+build/
+.cache/
+*.tmp
+
+# Configurações locais do editor
 .vscode/
 .idea/
+
+# Arquivos de ambiente (se houver)
+.env
+.env.local
+.env.*.local
+
+# Arquivos de deploy temporários
+*.swp
+*.swo
